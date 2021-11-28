@@ -1,13 +1,14 @@
-## Fala, tudo certo? :)👋
+## Fala, tudo certo? 😁👋
  
  ### EMANUEL - Araguari -MG
  
- #### Aprendendo 
-  <li>JS</li>
-  <li>Node</li> 
-  <li>React</li> 
-  <li>GitHub</li>
-
+ #### Aprendendo:
+ <ul>
+  <li>React</li>
+  <li>React-Native</li> 
+  <li>NodeJS</li> 
+  <li>Typescript</li>
+</ul>
 
 
 
