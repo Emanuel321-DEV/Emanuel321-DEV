@@ -1,4 +1,4 @@
-## Fala, tudo certo? 😁👋
+## Fala, tudo certo? 🙂👋
  
  ### EMANUEL - Araguari -MG
  
