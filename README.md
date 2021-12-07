@@ -1,8 +1,8 @@
-## Fala, tudo certo? 🙂👋
- 
+# Fala, tudo certo?  🙂👋
+  
  ### EMANUEL HENRIQUE - Araguari -MG
  
-  <p>Meu nome é Emanuel Henrique, estou cursando Sistemas de informação na UFU, porém também estudo programação por conta própria🤓</p>
+  <p>Seja muito bem vindo ao meu perfil, me chamo Emanuel Henrique, estou cursando Sistemas de informação na UFU, porém também estudo programação por conta própria há alguns meses🤓</p>
   
  #### UFU
   <ul>
