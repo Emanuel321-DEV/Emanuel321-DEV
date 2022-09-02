@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou o Emanuel Vieira 😃 </h1>
 
-<p align="center"> Sou estudante de Sistemas de Informação e tecnologia em geral, desenvolvi alguns projetos que envolvem uso de HTML, CSS (SASS, styled-components, ChakraUI), Typescript/Javascript, React entre outros. <br> Atualmente sou bolsista/aprendiz de desenvolvimento fullstack na empresa Hublocal <br> Estou em constante busca de conhecimento e crescimento pessoal e profissional.</p>
+<p align="center"> Sou estudante de Sistemas de Informação e tecnologia em geral, desenvolvi alguns projetos que envolvem uso de HTML, CSS (SASS, styled-components, ChakraUI), Typescript/Javascript, React entre outros. <br> Atualmente sou bolsista/aprendiz de desenvolvimento fullstack na empresa Hublocal <br> Estou em constante busca de conhecimento, crescimento pessoal e profissional.</p>
 
 <div align="center">
   <h2>Tecnologias </h2>
