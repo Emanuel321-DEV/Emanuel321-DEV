@@ -1,7 +1,4 @@
-<h1 align="center"> Olá, eu sou o Emanuel Vieira 😃 </h1>
-
-<p align="center"> Sou estudante de Sistemas de Informação e tecnologia em geral, desenvolvi alguns projetos que envolvem uso de HTML, CSS (SASS, styled-components, ChakraUI), Typescript/Javascript, React entre outros. <br> Atualmente sou bolsista/aprendiz de desenvolvimento fullstack na empresa Hublocal <br> Estou em constante busca de conhecimento, crescimento pessoal e profissional.</p>
-
+<h1 align="center"> Hello </h1>
 <div align="center">
   <h2>Tecnologias </h2>
   <img align="center" alt="Emanuel-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -27,8 +24,6 @@
   <h2>Contato</h2>
   <a target="_blank" href="https://www.linkedin.com/in/emanuel-henrique-5307b6144"> 
   <img height="40" width="100" src="https://camo.githubusercontent.com/09babd1351e6ca3fe5852192a70ddbfda756984dfe29da9beb011f6ebc6edd28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f64616e69656c6d65737175697474612f"/> </a>
-
-  
 </div>
 
 
